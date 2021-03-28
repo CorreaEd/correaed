@@ -11,11 +11,11 @@
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
-- Cozinho :spaghetti: &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41;
-- Leio :book:
-- Escuto músicas :musical_score:
-- Caminho :running:
-- Jogo &#40;filmando para futuro canal no YouTube&#41; :video_camera::video_game:
+- :spaghetti: Cozinho &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41;
+- :book: Leio
+- :musical_score: Escuto músicas
+- :running: Caminho
+- :video_game: Jogo &#40;:video_camera: filmando para futuro canal no YouTube&#41;
 
 #### :computer: Linguagens de programação:
 
