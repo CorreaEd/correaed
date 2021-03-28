@@ -11,7 +11,7 @@
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
-- Cozinho :spaghetti:
+- Cozinho :spaghetti: &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41;
 - Leio :book:
 - Escuto músicas :musical_score:
 - Caminho :running:
