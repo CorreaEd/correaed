@@ -11,7 +11,8 @@
 
 ###### :scroll: Cursos conclusos:
 
-- Go: Iniciando com a linguagem do Google &#40;Alura&#41;
+- Go: Iniciando com a linguagem do Google &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/fd463b42-61bd-44fa-bc48-611c6c9eef1d)
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
