@@ -7,6 +7,10 @@
 - Lógica de programação: Os primeiros programas com Javascript e HTML &#40;Alura&#41;
 - HTML5 e CSS3: A primeira página da Web &#40;Alura&#41;
 - C: Introdução à Linguagem das Linguagens &#40;Alura&#41;
+- Go: Orientação a Objetos &#40;Alura&#41;
+
+###### :scroll: Cursos conclusos:
+
 - Go: Iniciando com a linguagem do Google &#40;Alura&#41;
 
 #### :hourglass_flowing_sand: No meu tempo livre:
