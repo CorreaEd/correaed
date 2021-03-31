@@ -5,14 +5,15 @@
 #### :books: Atualmente estou estudando:
 
 - Lógica de programação: Os primeiros programas com Javascript e HTML &#40;Alura&#41;
-- HTML5 e CSS3: A primeira página da Web &#40;Alura&#41;
-- C: Introdução à Linguagem das Linguagens &#40;Alura&#41;
-- Go: Orientação a Objetos &#40;Alura&#41;
+- HTML5 e CSS3 - II: Posicionamento, listas e navegação &#40;Alura&#41;
+- Go - II: Orientação a Objetos &#40;Alura&#41;
 
 ###### :scroll: Cursos conclusos:
 
-- Go: Iniciando com a linguagem do Google &#40;Alura&#41;<br>
+- Go - I: Iniciando com a linguagem do Google &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/fd463b42-61bd-44fa-bc48-611c6c9eef1d)
+- HTML5 e CSS3 - I: A primeira página da Web &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/1fb159fb-573e-43ba-b604-561901f50e7b)
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
@@ -25,7 +26,6 @@
 #### :computer: Linguagens de programação:
 
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)
 
 #### :wrench: Ferramentas:
