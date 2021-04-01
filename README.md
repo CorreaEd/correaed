@@ -5,7 +5,7 @@
 #### :books: Atualmente estou estudando:
 
 - Lógica de programação: Os primeiros programas com Javascript e HTML &#40;Alura&#41;
-- HTML5 e CSS3 - II: Posicionamento, listas e navegação &#40;Alura&#41;
+- HTML5 e CSS3 - III: Trabalhando com formulários e tabelas &#40;Alura&#41;
 - Go - II: Orientação a Objetos &#40;Alura&#41;
 
 ###### :scroll: Cursos conclusos:
@@ -14,6 +14,8 @@
   [Ver credencial](https://cursos.alura.com.br/certificate/fd463b42-61bd-44fa-bc48-611c6c9eef1d)
 - HTML5 e CSS3 - I: A primeira página da Web &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/1fb159fb-573e-43ba-b604-561901f50e7b)
+- HTML5 e CSS3 - II: Posicionamento, listas e navegação &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/5ac4c20f-535d-403d-a8c0-495ac5e8aaea)
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
