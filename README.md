@@ -6,6 +6,7 @@
 
 - Alura - Lógica de programação: Os primeiros programas com Javascript e HTML
 - Alura - Go - II: Orientação a Objetos
+- Alura - C - II: Avançando na linguagem
 
 ###### :scroll: Cursos conclusos:
 
@@ -19,6 +20,9 @@
   [Ver credencial](https://cursos.alura.com.br/certificate/b0b8ec95-bc83-4334-9553-c619a545bcb4)
 - HTML5 e CSS3 - IV: Avançando no CSS &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/536b7ebc-9d06-444f-a150-72d1f5f53454)
+- C - I: Introdução à Linguagem das Linguagens &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/7e6853fe-9447-45fc-b2cc-5cc64ad935e3)
+ 
 
 
 #### :hourglass_flowing_sand: No meu tempo livre:
