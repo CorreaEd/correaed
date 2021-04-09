@@ -6,7 +6,7 @@
 
 - Alura - Lógica de programação: Os primeiros programas com Javascript e HTML
 - Alura - Go - II: Orientação a Objetos
-- Alura - C - II: Avançando na linguagem
+- Alura - C - III: Recursos avançados da linguagem
 
 ###### :scroll: Cursos conclusos:
 
@@ -22,6 +22,8 @@
   [Ver credencial](https://cursos.alura.com.br/certificate/536b7ebc-9d06-444f-a150-72d1f5f53454)
 - C - I: Introdução à Linguagem das Linguagens &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/7e6853fe-9447-45fc-b2cc-5cc64ad935e3)
+- C - II: Avançando na linguagem &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/2adf6c00-3d4f-468d-ad18-78f43a0e94cf)
  
 
 
@@ -36,6 +38,7 @@
 #### :computer: Linguagens de programação:
 
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)
 
 #### :wrench: Ferramentas:
