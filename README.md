@@ -24,9 +24,9 @@
   [Ver credencial](https://cursos.alura.com.br/certificate/7e6853fe-9447-45fc-b2cc-5cc64ad935e3)
 - C - II: Avançando na linguagem &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/2adf6c00-3d4f-468d-ad18-78f43a0e94cf)
+- SASS - O CSS com superpoderes &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/c71c3307-3cea-47cf-ac0d-6469ee8c8856)
  
-
-
 #### :hourglass_flowing_sand: No meu tempo livre:
 
 - :spaghetti: Cozinho &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41;
@@ -38,6 +38,7 @@
 #### :computer: Linguagens de programação:
 
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)
 
