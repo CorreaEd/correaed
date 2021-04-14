@@ -26,6 +26,10 @@
   [Ver credencial](https://cursos.alura.com.br/certificate/2adf6c00-3d4f-468d-ad18-78f43a0e94cf)
 - SASS - O CSS com superpoderes &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/c71c3307-3cea-47cf-ac0d-6469ee8c8856)
+- LESS - CSS simples e produtivo &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/)
+- HTTP: Entendendo a web por baixo dos panos &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/7aee9555-dc58-4761-861a-5a649cdd4b0b)
  
 #### :hourglass_flowing_sand: No meu tempo livre:
 
