@@ -6,7 +6,6 @@
 
 - Alura - Lógica de programação: Os primeiros programas com Javascript e HTML
 - Alura - Go - II: Orientação a Objetos
-- Alura - C - III: Recursos avançados da linguagem
 
 ###### :scroll: Cursos conclusos:
 
@@ -24,13 +23,17 @@
   [Ver credencial](https://cursos.alura.com.br/certificate/7e6853fe-9447-45fc-b2cc-5cc64ad935e3)
 - C - II: Avançando na linguagem &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/2adf6c00-3d4f-468d-ad18-78f43a0e94cf)
+- C - III: Recursos avançados da linguagem &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/bd6bf550-35db-4b38-aec4-bf923f418e11)
 - SASS - O CSS com superpoderes &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/c71c3307-3cea-47cf-ac0d-6469ee8c8856)
 - LESS - CSS simples e produtivo &#40;Alura&#41;<br>
-  [Ver credencial](https://cursos.alura.com.br/certificate/)
+  [Ver credencial](https://cursos.alura.com.br/certificate/5538225e-a83e-4291-940e-2378fc5d4859)
 - HTTP: Entendendo a web por baixo dos panos &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/7aee9555-dc58-4761-861a-5a649cdd4b0b)
- 
+- C++ : Introdução a linguagem e a STL &#40;Alura&#41;<br>
+  [Ver credencial](https://cursos.alura.com.br/certificate/56b2a24a-7ec9-4c65-9e09-5af60fa897df)
+  
 #### :hourglass_flowing_sand: No meu tempo livre:
 
 - :spaghetti: Cozinho &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41;
