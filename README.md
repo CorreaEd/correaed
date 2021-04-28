@@ -33,6 +33,8 @@
   [Ver credencial](https://cursos.alura.com.br/certificate/7aee9555-dc58-4761-861a-5a649cdd4b0b)
 - C++ : Introdução a linguagem e a STL &#40;Alura&#41;<br>
   [Ver credencial](https://cursos.alura.com.br/certificate/56b2a24a-7ec9-4c65-9e09-5af60fa897df)
+- Java JRE e JDK: Escreva o seu primeiro código com Eclipse &#40;Alura&#41;<br> 
+  [Ver credencial](https://cursos.alura.com.br/certificate/7214ffca-0eab-4b62-971c-abc02442a881)
   
 #### :hourglass_flowing_sand: No meu tempo livre:
 
