@@ -4,8 +4,11 @@
 
 #### :books: Atualmente estou estudando:
 
-- Alura - Lógica de programação: Os primeiros programas com Javascript e HTML
-- Alura - Go - II: Orientação a Objetos
+- Alura - PostgreSQL: Primeiros passos com SQL
+- Alura - Go - III: Fundamentos de uma aplicação web
+
+###### :scroll: Cursos conclusos:
+- Alura: [Certificados](https://cursos.alura.com.br/user/correaeduardo96)
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
@@ -29,6 +32,7 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### :globe_with_meridians: Redes sociais:
 
