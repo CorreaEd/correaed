@@ -67,6 +67,7 @@
 <!--
 **CorreaEd/correaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![youtubeBadge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -78,3 +79,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
