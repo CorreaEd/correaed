@@ -15,11 +15,13 @@
 - Udemy: Curso Elementor Wordpress: Criando Sites com Elementor
 
 ###### :: Projetos em desenvolvimento: 
-- UPM - Mackenzie - Objetos Inteligentes Conectados (projeto final da matéria):
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-Construindo um protótipo "Mini RC Tank IoT com Micro câmera" utilizando um módulo ESP32 da Espressif na Arduino IDE e para a integração com o protocolo MQTT, utilizando o Node-Red.
+- UPM - Mackenzie - Objetos Inteligentes Conectados (projeto final da matéria): Construindo um protótipo "Mini RC Tank IoT com Micro câmera" utilizando um módulo ESP32 da Espressif na Arduino IDE e para a integração com o protocolo MQTT, utilizando o Node-Red.
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 
 ###### :scroll: Cursos conclusos:
