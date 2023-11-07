@@ -1,9 +1,9 @@
 <div align="center">
 <h3>Olá, tudo bem? Meu nome é Eduardo Corrêa<br>sou Analista Desenvolvedor SAP-ABAP :sparkles::computer::satisfied:</h3>
 <hr/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   ㅤㅤㅤㅤ
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreaEd&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreaEd&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
   <hr/>
 
