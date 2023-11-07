@@ -8,13 +8,21 @@
   <hr/>
 
 #### :books: Atualmente estou estudando:
+- UPM - Mackenzie: Tecnologia em Análise e Desenvolvimento de Sistemas (Semestre final - 5/5)
+- Loiane Training: Desenvolvimentos em Angular
+- Udemy: Curso React.js Ninja: Módulo React + Webpack
+- Udemy: Criando um Servidor VPS para Sites Wordpress e PhP
+- Udemy: Curso Elementor Wordpress: Criando Sites com Elementor
 
-- Cursos - Udemy: Treinamento SAP ABAP
-- HackATruck - Maker Space: Práticas de Cloud Services usando Swift com ênfase em IoT
-- UPM - Mackenzie: Tecnologia em Análise e Desenvolvimento de Sistemas
+###### :: Projetos em desenvolvimento: 
+- UPM - Mackenzie - Objetos Inteligentes Conectados (projeto final da matéria):
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) Construindo um protótipo "Mini RC Tank IoT com Micro câmera" utilizando a Arduino IDE e módulo ESP32 da Espressif ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
 
 ###### :scroll: Cursos conclusos:
 - Alura: [Certificados](https://cursos.alura.com.br/user/correaeduardo96)
+- HackATruck - Maker Space: Práticas de Cloud Services usando Swift com ênfase em IoT
+- 
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
@@ -30,7 +38,11 @@
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### :wrench: Ferramentas:
 
@@ -51,6 +63,7 @@
 
 ![pc](https://img.shields.io/badge/asus-TUF_B360M_PLUS_GAMING/BR-83B81A?style=for-the-badge&logo=asus&logoColor=white)
 ![i5](https://img.shields.io/badge/Intel-Core_i5_9th_9600K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![nvidia](https://img.shields.io/badge/NVIDIA-GTX1660ti_TUF_Gaming_6gb_GDDR6-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![xpg](https://img.shields.io/badge/XPG-TUF_Spectrix_D41_16Gb_RAM_DDR4-E2231A?style=for-the-badge&logo=)
 ![xpg](https://img.shields.io/badge/XPG-TUF_GAMMIX_S41_512Gb_SSD_M2-E2231A?style=for-the-badge&logo=)
 ![hp](https://img.shields.io/badge/HP-S700_120Gb_SSD_SATA-0096D6?style=for-the-badge&logo=hp&logoColor=white)
