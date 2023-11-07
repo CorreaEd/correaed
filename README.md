@@ -16,17 +16,22 @@
 
 ###### :: Projetos em desenvolvimento: 
 - UPM - Mackenzie - Objetos Inteligentes Conectados (projeto final da matéria):
-![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) Construindo um protótipo "Mini RC Tank IoT com Micro câmera" utilizando a Arduino IDE e módulo ESP32 da Espressif ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+Construindo um protótipo "Mini RC Tank IoT com Micro câmera" utilizando um módulo ESP32 da Espressif na Arduino IDE e para a integração com o protocolo MQTT, utilizando o Node-Red.
 
 
 ###### :scroll: Cursos conclusos:
 - Alura: [Certificados](https://cursos.alura.com.br/user/correaeduardo96)
-- HackATruck - Maker Space: Práticas de Cloud Services usando Swift com ênfase em IoT
-- 
+- HackATruck - Maker Space: [Algoritmos, Programação Orientada a Objetos com Swift, JavaScript e RESTful APIs](https://drive.google.com/file/d/1kkbj7YhUm9Kh5JYnBfGNMZcmRzYnpjZH/view)
+- HackATruck - Maker Space: [Práticas de Cloud Services usando Swift com ênfase em IoT](https://drive.google.com/file/d/1tkYIqn4cgcO_-804VMXJvb1N0okJIThk/view)
+- Numen IT - [Programa de Formação de Talentos - Edição Tecnologia: 2021](https://drive.google.com/file/d/1vaEvv7lbshgZDL7hP2PGtK4W7UwGVOY2/view)
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
-- :spaghetti: Cozinho &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41;
+- :speech_balloon: Estudo novos idiomas :smile: Atualmente, estou aprimorando meu inglês e aprendendo alemão.
+- :spaghetti: Cozinho &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41; 
 - :book: Leio
 - :musical_score: Escuto músicas
 - :running: Caminho
@@ -34,8 +39,10 @@
 
 #### :computer: Linguagens de programação:
 
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -54,6 +61,8 @@
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![angular]()
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
