@@ -14,13 +14,13 @@
 - Udemy: Criando um Servidor VPS para Sites Wordpress e PhP
 - Udemy: Curso Elementor Wordpress: Criando Sites com Elementor
 
-###### :: Projetos em desenvolvimento: 
+#### :: Projetos em desenvolvimento: 
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 - UPM - Mackenzie - Objetos Inteligentes Conectados (projeto final da matéria): Construindo um protótipo "Mini RC Tank IoT com Micro câmera" utilizando um módulo ESP32 da Espressif na Arduino IDE e para a integração com o protocolo MQTT, utilizando o Node-Red.
 
-###### :scroll: Cursos conclusos:
+#### :scroll: Cursos conclusos:
 - Alura: [Certificados](https://cursos.alura.com.br/user/correaeduardo96)
 - HackATruck - Maker Space: [Algoritmos, Programação Orientada a Objetos com Swift, JavaScript e RESTful APIs](https://drive.google.com/file/d/1kkbj7YhUm9Kh5JYnBfGNMZcmRzYnpjZH/view)
 - HackATruck - Maker Space: [Práticas de Cloud Services usando Swift com ênfase em IoT](https://drive.google.com/file/d/1tkYIqn4cgcO_-804VMXJvb1N0okJIThk/view)
@@ -28,7 +28,7 @@
 
 #### :hourglass_flowing_sand: No meu tempo livre:
 
-- :speech_balloon: Estudo novos idiomas :smile: Atualmente, estou aprimorando meu inglês e aprendendo alemão.
+- :speech_balloon: Estudo novos idiomas :smile: Atualmente, estou aprimorando meu inglês e aprendendo alemão
 - :spaghetti: Cozinho &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41; 
 - :book: Leio
 - :musical_score: Escuto músicas
