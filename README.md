@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Olá, tudo bem? Meu nome é Eduardo Corrêa<br>sou Analista Desenvolvedor SAP-ABAP :sparkles::computer::satisfied:</h3>
+<h3>Olá, tudo bem? Meu nome é Eduardo Corrêa<br>sou Analista Desenvolvedor SAP-ABAP :sparkles::man_technologist::satisfied:</h3>
 <hr/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   ㅤㅤㅤㅤ
@@ -14,7 +14,7 @@
 - Udemy: Criando um Servidor VPS para Sites Wordpress e PhP
 - Udemy: Curso Elementor Wordpress: Criando Sites com Elementor
 
-#### :: Projetos em desenvolvimento: 
+#### :hammer_and_wrench: Projetos em desenvolvimento: 
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
@@ -35,7 +35,7 @@
 - :running: Caminho
 - :video_game: Jogo &#40;:video_camera: filmando para futuro canal no YouTube&#41;
 
-#### :computer: Linguagens de programação:
+#### :man_technologist: Linguagens de programação:
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,6 +55,7 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -69,7 +70,6 @@
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-![zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 #### :heavy_check_mark: Setup:
 
@@ -79,8 +79,9 @@
 ![xpg](https://img.shields.io/badge/XPG-TUF_Spectrix_D41_16Gb_RAM_DDR4-E2231A?style=for-the-badge&logo=)
 ![xpg](https://img.shields.io/badge/XPG-TUF_GAMMIX_S41_512Gb_SSD_M2-E2231A?style=for-the-badge&logo=)
 ![hp](https://img.shields.io/badge/HP-S700_120Gb_SSD_SATA-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+<br>
 ![wd](https://img.shields.io/badge/Western_D-Red_NAS_1Tb_HDD_SATA-CB2029?style=for-the-badge&logo=)
-![ps4](https://img.shields.io/badge/PlayStation-PS4_Sony_Dualshock-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![ps4](https://img.shields.io/badge/PlayStation-PS4_Dualshock-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
 #### :globe_with_meridians: Redes sociais:
 
