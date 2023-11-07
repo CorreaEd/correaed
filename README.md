@@ -1,9 +1,9 @@
 <div align="center">
 <h3>Olá, tudo bem? Meu nome é Eduardo Corrêa<br>sou Analista Desenvolvedor SAP-ABAP :sparkles::computer::satisfied:</h3>
 <hr/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   ㅤㅤㅤㅤ
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreaEd&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreaEd&layout=compact&langs_count=16&theme=onedark"/>
 </div>
   <hr/>
 
@@ -19,10 +19,6 @@
 ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 - UPM - Mackenzie - Objetos Inteligentes Conectados (projeto final da matéria): Construindo um protótipo "Mini RC Tank IoT com Micro câmera" utilizando um módulo ESP32 da Espressif na Arduino IDE e para a integração com o protocolo MQTT, utilizando o Node-Red.
-![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-
 
 ###### :scroll: Cursos conclusos:
 - Alura: [Certificados](https://cursos.alura.com.br/user/correaeduardo96)
