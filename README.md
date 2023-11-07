@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Olá, tudo bem? Meu nome é Eduardo Corrêa<br>sou Analista Desenvolvedor SAP-ABAP na @Numen IT :sparkles::computer::satisfied:</h3>
+<h3>Olá, tudo bem? Meu nome é Eduardo Corrêa<br>sou Analista Desenvolvedor SAP-ABAP :sparkles::computer::satisfied:</h3>
 <hr/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   ㅤㅤㅤㅤ
