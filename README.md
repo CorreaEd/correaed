@@ -61,11 +61,15 @@
 ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![angular]()
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<br>
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 #### :heavy_check_mark: Setup:
 
@@ -76,6 +80,7 @@
 ![xpg](https://img.shields.io/badge/XPG-TUF_GAMMIX_S41_512Gb_SSD_M2-E2231A?style=for-the-badge&logo=)
 ![hp](https://img.shields.io/badge/HP-S700_120Gb_SSD_SATA-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 ![wd](https://img.shields.io/badge/Western_D-Red_NAS_1Tb_HDD_SATA-CB2029?style=for-the-badge&logo=)
+![ps4](https://img.shields.io/badge/PlayStation-PS4_Sony_Dualshock-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
 #### :globe_with_meridians: Redes sociais:
 
