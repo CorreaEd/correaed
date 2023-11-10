@@ -10,6 +10,7 @@
 #### :books: Atualmente estou estudando:
 - UPM - Mackenzie: Tecnologia em Análise e Desenvolvimento de Sistemas (Semestre final - 5/5)
 - Loiane Training: Desenvolvimentos em Angular
+- Udemy: Angular, Spring e MongoDB - do front ao banco de dados
 - Udemy: Curso React.js Ninja: Módulo React + Webpack
 - Udemy: Criando um Servidor VPS para Sites Wordpress e PhP
 - Udemy: Curso Elementor Wordpress: Criando Sites com Elementor
