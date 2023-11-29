@@ -3,7 +3,7 @@
 <hr/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   ㅤㅤㅤㅤ
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&theme=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreaEd&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
   <hr/>
 
@@ -107,4 +107,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
