@@ -3,7 +3,7 @@
 <hr/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   ㅤㅤㅤㅤ
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&theme=chartreuse-dark&show_icons=true"/>                           
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&theme=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
   <hr/>
 
