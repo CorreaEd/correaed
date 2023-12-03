@@ -1,5 +1,7 @@
 <div align="center">
-<h3>Olá, tudo bem? Meu nome é Eduardo Corrêa<br>sou Analista Desenvolvedor SAP-ABAP :sparkles::man_technologist::satisfied:</h3>
+<h3>Olá, tudo bem? Meu nome é Eduardo Corrêa, sou Desenvolvedor Front-End ✨👨‍💻 <br> Angular | React | JavaScript | TypeScript | ReactNative | Python | Golang <br><br> 
+Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas <br> na Universidade Presbiteriana Mackenzie <br><br>
+Atualmente, estou investindo meu tempo em projetos independentes, <br> com foco em Desenvolvimento Web e Aplicações Mobile, utilizando Angular e ReactNative.</h3>
 <hr/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   ㅤㅤㅤㅤ
@@ -7,27 +9,27 @@
 </div>
   <hr/>
 
-#### :books: Atualmente estou estudando:
-- UPM - Mackenzie: Tecnologia em Análise e Desenvolvimento de Sistemas (Semestre final - 5/5)
+#### 📚 Atualmente estou estudando:
 - Loiane Training: Desenvolvimentos em Angular
 - Udemy: Angular, Spring e MongoDB - do front ao banco de dados
 - Udemy: Curso React.js Ninja: Módulo React + Webpack
 - Udemy: Criando um Servidor VPS para Sites Wordpress e PhP
 - Udemy: Curso Elementor Wordpress: Criando Sites com Elementor
 
-#### :hammer_and_wrench: Projetos em desenvolvimento: 
+#### 🛠️ Projetos em desenvolvimento: 
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 - UPM - Mackenzie - Objetos Inteligentes Conectados (projeto final da matéria): Construindo um protótipo "Mini RC Tank IoT com Micro câmera" utilizando um módulo ESP32 da Espressif na Arduino IDE e para a integração com o protocolo MQTT, utilizando o Node-Red.
 
-#### :scroll: Cursos conclusos:
+#### 📜 Cursos conclusos:
+- Universidade Presbiteriana Mackenzie: Tecnologia em Análise e Desenvolvimento de Sistemas
 - Alura: [Certificados](https://cursos.alura.com.br/user/correaeduardo96)
 - HackATruck - Maker Space: [Algoritmos, Programação Orientada a Objetos com Swift, JavaScript e RESTful APIs](https://drive.google.com/file/d/1kkbj7YhUm9Kh5JYnBfGNMZcmRzYnpjZH/view)
 - HackATruck - Maker Space: [Práticas de Cloud Services usando Swift com ênfase em IoT](https://drive.google.com/file/d/1tkYIqn4cgcO_-804VMXJvb1N0okJIThk/view)
 - Numen IT - [Programa de Formação de Talentos - Edição Tecnologia: 2021](https://drive.google.com/file/d/1vaEvv7lbshgZDL7hP2PGtK4W7UwGVOY2/view)
 
-#### :hourglass_flowing_sand: No meu tempo livre:
+#### ⏳ No meu tempo livre:
 
 - :speech_balloon: Estudo novos idiomas :smile: Atualmente, estou aprimorando meu inglês e aprendendo alemão
 - :spaghetti: Cozinho &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41; 
@@ -36,7 +38,7 @@
 - :running: Caminho
 - :video_game: Jogo &#40;:video_camera: filmando para futuro canal no YouTube&#41;
 
-#### :man_technologist: Linguagens de programação:
+#### 👨‍💻 Linguagens de programação:
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +53,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### :wrench: Ferramentas:
+#### 🔧 Ferramentas:
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
@@ -72,7 +74,7 @@
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![nodered](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
-#### :heavy_check_mark: Setup:
+#### ✔️ Setup:
 
 ![pc](https://img.shields.io/badge/asus-TUF_B360M_PLUS_GAMING/BR-83B81A?style=for-the-badge&logo=asus&logoColor=white)
 ![i5](https://img.shields.io/badge/Intel-Core_i5_9th_9600K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -84,7 +86,7 @@
 ![wd](https://img.shields.io/badge/Western_D-Red_NAS_1Tb_HDD_SATA-CB2029?style=for-the-badge&logo=)
 ![ps4](https://img.shields.io/badge/PlayStation-PS4_Dualshock-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
-#### :globe_with_meridians: Redes sociais:
+#### 🌐 Redes sociais:
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ecorreaoficial/)
 [![instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/__eduardocorrea/)
