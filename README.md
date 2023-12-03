@@ -1,7 +1,6 @@
 <div align="center">
 <h3>Olá, tudo bem? Meu nome é Eduardo Corrêa, sou Desenvolvedor Front-End ✨👨‍💻 <br> Angular | React | JavaScript | TypeScript | ReactNative | Python | Golang <br><br> 
-Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas <br> na Universidade Presbiteriana Mackenzie <br><br>
-Atualmente, estou investindo meu tempo em projetos independentes, <br> com foco em Desenvolvimento Web e Aplicações Mobile, utilizando Angular e ReactNative.</h3>
+Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas <br> na Universidade Presbiteriana Mackenzie</h3>
 <hr/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CorreaEd&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   ㅤㅤㅤㅤ
@@ -31,12 +30,12 @@ Atualmente, estou investindo meu tempo em projetos independentes, <br> com foco 
 
 #### ⏳ No meu tempo livre:
 
-- :speech_balloon: Estudo novos idiomas :smile: Atualmente, estou aprimorando meu inglês e aprendendo alemão
-- :spaghetti: Cozinho &#40;:camera: [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41; 
-- :book: Leio
-- :musical_score: Escuto músicas
-- :running: Caminho
-- :video_game: Jogo &#40;:video_camera: filmando para futuro canal no YouTube&#41;
+- 💬 Estudo novos idiomas :smile: Atualmente, estou aprimorando meu inglês e aprendendo alemão
+- 🍝 Cozinho &#40;📷 [@eduquaseguedes](https://www.instagram.com/eduquaseguedes)&#41; 
+- 📖 Leio
+- 🎼 Escuto músicas
+- 🏃 Caminho
+- 🎮 Jogo &#40;📹 filmando para futuro canal no YouTube&#41;
 
 #### 👨‍💻 Linguagens de programação:
 
