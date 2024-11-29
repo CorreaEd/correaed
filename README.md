@@ -9,6 +9,7 @@ Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas <br> na Univers
   <hr/>
 
 #### 📚 Atualmente estou estudando:
+- Faculdade Focus - Pós-graduação: Engenharia de Software 
 - Loiane Training: Desenvolvimentos em Angular
 - Udemy: Angular, Spring e MongoDB - do front ao banco de dados
 - Udemy: Curso React.js Ninja: Módulo React + Webpack
